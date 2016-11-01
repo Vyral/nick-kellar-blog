@@ -3,9 +3,6 @@ layout: post
 title: What’s Happening in the Carroll County Real Estate Market?
 tags:
   - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt: 'We will update this channel regularly with great seller tips, buyer tips, and real estate market updates for our area.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/The+CK+Team+Market+Update.mp4'
 pullquote: 'Inventory is down, and interest rates are extraordinarily low.'

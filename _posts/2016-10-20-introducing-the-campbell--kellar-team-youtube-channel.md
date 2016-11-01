@@ -2,10 +2,6 @@
 layout: post
 title: 'Introducing the Campbell & Kellar Team YouTube Channel'
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt: 'We will update this channel regularly with great seller tips, buyer tips, and real estate market updates for our area.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/The+CK+Team+YouTube+Intro.mp4'
 pullquote: 'Andross, the Final Boss'

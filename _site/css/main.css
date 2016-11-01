@@ -1177,6 +1177,102 @@ html[xmlns] .flexslider .slides {
   -moz-transform: translate3d(0, 0, 0);
   -ms-transform: translate3d(0, 0, 0); }
 
+#welcome-box form {
+  padding-left: 30px; }
+
+.welcome-0-height {
+  max-height: 0; }
+
+.welcome-box {
+  background: #008AAC;
+  padding: 20px 0px;
+  color: white;
+  margin-top: -21px;
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
+  margin-bottom: 20px;
+  max-height: 0px;
+  overflow: hidden; }
+
+.welcome-box-seen-before {
+  max-height: 500px;
+  opacity: 1;
+  -webkit-transform: translateX(0);
+          transform: translateX(0);
+  background: #008AAC;
+  padding: 20px 0px;
+  color: white;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
+  padding: 20px 0px; }
+
+.add-welcome-box {
+  -webkit-transform: translateY(-1000px);
+          transform: translateY(-1000px);
+  -webkit-animation: 1s drop-down ease-in-out forwards;
+          animation: 1s drop-down ease-in-out forwards;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+  -webkit-animation-iteration-count: 1;
+          animation-iteration-count: 1; }
+
+.remove-welcome-box {
+  -webkit-animation: 1s pull-up ease-in-out forwards;
+          animation: 1s pull-up ease-in-out forwards; }
+
+@-webkit-keyframes drop-down {
+  0% {
+    -webkit-transform: translateY(-1000px);
+            transform: translateY(-1000px);
+    max-height: 0; }
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    max-height: 500px; } }
+
+@keyframes drop-down {
+  0% {
+    -webkit-transform: translateY(-1000px);
+            transform: translateY(-1000px);
+    max-height: 0; }
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    max-height: 500px; } }
+@-webkit-keyframes pull-up {
+  0% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    max-height: 500px; }
+  100% {
+    -webkit-transform: translateY(-1000px);
+            transform: translateY(-1000px);
+    max-height: 0; } }
+@keyframes pull-up {
+  0% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    max-height: 500px; }
+  100% {
+    -webkit-transform: translateY(-1000px);
+            transform: translateY(-1000px);
+    max-height: 0; } }
+.welcome-exit {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  color: white;
+  -webkit-transition: all 0.15s ease-out 0s;
+  transition: all 0.15s ease-out 0s;
+  cursor: pointer; }
+  .welcome-exit:hover {
+    color: #13d0ff; }
+  .welcome-exit:focus {
+    outline: 0;
+    border: 0; }
+
+.welcome-hidden-margin {
+  margin-bottom: 20px; }
+
 .jp-audio {
   border: 0;
   color: #008AAC;

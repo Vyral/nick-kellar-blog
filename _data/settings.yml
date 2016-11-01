@@ -1,6 +1,6 @@
 audit_header: false
-title: Campbell & Keller Team Real Estate Video Blog
-description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Campbell & Keller Team - your professional Baltimore & Carroll Counties Real Estate Agents.
+title: Campbell & Kellar Team Real Estate Video Blog
+description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Campbell & Kellar Team - your professional Baltimore & Carroll Counties Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -9,14 +9,15 @@ client:
   name: Nick Kellar
   license_number:
   about_markdown: |
-    Campbell & Kellar Team of Keller Williams Legacy is a fast growing, progressive Real Estate team pioneering evolution of our industry and kicking a dent in the Baltimore metro community and local real estate market.  Our approach is Family Helping Families be strategic in making decisions with clear direction while supporting with strong leadership, communication, expectations, and accountability.
+    Campbell & Kellar Team of Kellar Williams Legacy is a fast growing, progressive Real Estate team pioneering evolution of our industry and kicking a dent in the Baltimore metro community and local real estate market.  Our approach is Family Helping Families be strategic in making decisions with clear direction while supporting with strong leadership, communication, expectations, and accountability.
 
     We use progressive systems & tactics, strategic thinking, and years of experience to help position our clients to have the right information so that they can ultimately make the right decisions.
   market: Baltimore & Carroll Counties
-  brand: Campbell & Keller Team
+  brand: Campbell & Kellar Team
   brokerage:
   address: 1515 Reisterstown Road, 2nd floor<br>Pikesville, MD 21208
   phone: 443-660-9229
+  phone2: 443-964-1000
   email: Nick@theCKteam.com
   url: www.CampbellandKellarTeam.com
   first_CTA_text: Home Evaluation
@@ -24,6 +25,9 @@ client:
   second_CTA_text: Home Search
   second_CTA_URL: http://www.bestmdhomesearch.com/?src=vyral
   VR_form: http://oi.vresp.com?fid=b75e53759f
+welcome_headline: Get Educated About Real Estate
+welcome_text_markdown: |
+  Our mission at The Campbell & Kellar Team is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/theCKteam/
@@ -38,11 +42,11 @@ socials:
   yelp_url:
   podcast_url:
 podcast:
-  title: Campbell & Keller Team Real Estate Podcast
+  title: Campbell & Kellar Team Real Estate Podcast
   categories: News & Politics
   image:
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Baltimore & Carroll Counties Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Campbell & Keller Team - your professional Baltimore & Carroll Counties Real Estate Agents.'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Campbell & Kellar Team - your professional Baltimore & Carroll Counties Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Baltimore & Carroll Counties, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author:
 images:
