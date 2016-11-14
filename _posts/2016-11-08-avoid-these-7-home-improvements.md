@@ -2,9 +2,6 @@
 layout: post
 title: Avoid These 7 Home Improvements
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
   - Home Seller Tips
 excerpt: 'Some home improvements add more value to your property than others. Today, I’ll go over the top seven home renovations you should avoid.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/CarrollCounty+Real+Estate+7+Home+Improvements+to+Avoid.mp4'
