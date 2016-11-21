@@ -18,6 +18,6 @@
 		Office: {{ site.data.settings.client.phone }}<br />
 		Team Direct: {{ site.data.settings.client.phone2 }}<br />
 		<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
-		<a href="http://{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url }}</a><br />
+		<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: "http://" }}</a><br />
 	</p>
 </div>
