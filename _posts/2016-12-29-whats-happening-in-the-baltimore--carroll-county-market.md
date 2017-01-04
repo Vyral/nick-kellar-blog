@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Happening in the Carroll County Market?
+title: 'What’s Happening in the Baltimore & Carroll County Market?'
 tags:
   - Market Update
 excerpt: How is our real estate market performing? Are we in a buyer’s or seller’s market? I’ll tell you everything you need to know today.
@@ -16,13 +16,13 @@ youtube_code: 2dxd8jlM2ZQ
 
 {% include youtube.html %}
 
-Now that the election is finally over, a lot of people have been asking how the market is performing. Are we in a buyer’s market or a seller’s market?&nbsp;
+Now that the election is finally over, a lot of people have been asking how the market is performing. Are we in a buyer’s market or a seller’s market?
 
 **First of all, it’s really important to understand that our market is impacted by the seasons**. In the spring, the market has more of a frenetic pace and is definitely considered a seller’s market. Starting in mid-summer, the market starts to slow down, and we usually have more of a buyer’s market in the third and fourth quarters.
 
-So, what’s going on with inventory? There is not a lot of new inventory coming on the market right now. If you are a buyer, you have probably noticed that there aren’t many new options to choose from. Homes that are currently on the market are sitting a little longer and aren’t getting the same amount of activity they were before the election, so some of those listings are starting to go stale.&nbsp;
+So, what’s going on with inventory? There is not a lot of new inventory coming on the market right now. If you are a buyer, you have probably noticed that there aren’t many new options to choose from. Homes that are currently on the market are sitting a little longer and aren’t getting the same amount of activity they were before the election, so some of those listings are starting to go stale.
 
-**How do we measure whether or not a listing is getting stale****?** We use something called the absorption rate, which looks at the current sales pace versus the amount of active inventory. In short, if no other new homes came on the market, how long would it take to sell all of our current inventory?&nbsp;
+**How do we measure whether or not a listing is getting stale****?** We use something called the absorption rate, which looks at the current sales pace versus the amount of active inventory. In short, if no other new homes came on the market, how long would it take to sell all of our current inventory?
 
 According to industry standards, four to six months of inventory is a balanced market. Anything less than three months is considered a seller’s market, and anything more than six months is a buyer’s market. In a seller’s market, homes sell quickly because there is low inventory and high demand. In a buyer’s market, homes aren’t selling as fast as new homes come on the market.
 
