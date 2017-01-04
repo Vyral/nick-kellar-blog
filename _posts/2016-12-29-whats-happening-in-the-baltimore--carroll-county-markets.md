@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'What’s Happening in the Baltimore & Carroll County Market?'
+title: 'What’s Happening in the Baltimore & Carroll County Markets?'
 tags:
   - Market Update
 excerpt: How is our real estate market performing? Are we in a buyer’s or seller’s market? I’ll tell you everything you need to know today.
