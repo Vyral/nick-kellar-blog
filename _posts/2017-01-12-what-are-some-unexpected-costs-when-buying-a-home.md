@@ -30,7 +30,7 @@ Outside of those loans, conventional financing is also an option. Conventional f
 
 Unlike the down payment, if you negotiate well, closing costs can be covered by the seller. There is a good chance you might get some if not all your closing costs taken care of.&nbsp;
 
-You also need to **budget for any inspection costs**. These costs will depend on the size of house, whether the house needs a septic inspection or pest inspection, and other factors, so be sure you set aside a good amount to get those inspections done.&nbsp;
+You also need to **budget for any inspection costs**. These costs will depend on the size of the house, whether the house needs a septic inspection or pest inspection, and other factors, so be sure you set aside a good amount to get those inspections done.&nbsp;
 
 Although it’s a common one, **don’t forget about the cost of moving**. Obviously, moving to a different state will cost more than moving across town, but it’s still wise to budget exactly what those costs will be.&nbsp;
 
