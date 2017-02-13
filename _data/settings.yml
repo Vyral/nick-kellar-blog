@@ -18,19 +18,19 @@ client:
   address: 1515 Reisterstown Road, 2nd floor<br>Pikesville, MD 21208
   phone: 443-660-9229
   phone2: 443-964-1000
-  email: Nick@theCKteam.com
-  url: http://www.CampbellandKellarTeam.com
+  email: Nick@AtlasPremierRealty.com
+  url: http://www.atlaspremierrealty.com/
   first_CTA_text: Home Evaluation
-  first_CTA_URL: http://www.bestmdhomesearch.com/homevalue/value/?src=vyral
+  first_CTA_URL: http://www.atlaspremierrealty.com/whats-my-home-worth/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.bestmdhomesearch.com/?src=vyral
+  second_CTA_URL: http://www.atlaspremierrealty.com/idx/search/
   VR_form: http://oi.vresp.com?fid=b75e53759f
 welcome_headline: Get Educated About Real Estate
 welcome_text_markdown: |
   Our mission at Atlas Premier Realty is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/theCKteam/
+  facebook_url: https://www.facebook.com/atlaspremierrealty/
   linkedin_url: https://www.linkedin.com/in/nick-kellar-b3a33112
   gplus_url:
   youtube_url: https://www.youtube.com/channel/UCtNQYKYMqRRtJVLwGppVZPA
